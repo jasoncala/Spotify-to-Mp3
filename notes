@@ -1,0 +1,28 @@
+Authentication: 
+ - I prove that I am who I say I am
+ - Username and password
+ - Selenium
+ - Ex. the instagram follower checker
+
+Authorization:
+ - I prove that someone else told me I could access something
+ - Oauth
+
+We are doing Authorization for Spotify to Mp3
+--------------------------------------------------
+Oauth
+
+Scope:
+ - What I get access to
+ - Ex. 'user-playlists', 'email', ...
+
+Redirect Url:
+ - After user approves, where do we send them back to?
+
+Client Id: 
+ - Unique Id for your app
+ - Think username
+
+Client Secret:
+ - Private secret only you and the server know
+ - Think Password
